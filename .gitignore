@@ -1,0 +1,11 @@
+*.xlsx
+*.xls
+*.h5
+*.csv
+*.zip
+*.png
+*.json
+*.jpg
+*.txt
+*.tsv
+.DS_Store
